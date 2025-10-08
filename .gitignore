@@ -1,0 +1,36 @@
+Set-Content -Path ".gitignore" -Value @"
+# ==========================
+# Build Artifacts
+# ==========================
+*.o
+*.obj
+*.gch
+*.pch
+*.pdb
+*.idb
+*.ilk
+*.log
+
+# ==========================
+# Compiled Binaries
+# ==========================
+/dist/
+*.exe
+*.dll
+
+# ==========================
+# IDE / Editor Files
+# ==========================
+*.layout
+*.depend
+*.dev
+*.cbp
+.vscode/
+.idea/
+
+# ==========================
+# OS-generated Files
+# ==========================
+Thumbs.db
+.DS_Store
+"@
