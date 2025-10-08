@@ -18,11 +18,11 @@
 >> ## Project Structure
 >>'''
 >>project-root/
->>├─ src/ # Source code (C++ headers and implementation files)
->>├─ assets/ # Game assets (images, sounds)
->>├─ vendor/SDL/ # SDL libraries used for compilation
->>├─ docs/ # Project report (PDF)
->>├─ media/ # Presentation videos
+>>├─ src/ # Source code (C++ headers and implementation files)\
+>>├─ assets/ # Game assets (images, sounds)\
+>>├─ vendor/SDL/ # SDL libraries used for compilation\
+>>├─ docs/ # Project report (PDF)\
+>>├─ media/ # Presentation videos\
 >>└─ dist/ # Executable and runtime DLLs (not included in Git)
 >>'''
 >>
