@@ -16,7 +16,7 @@
 >> ---
 >>
 >> ## Project Structure
->>'''
+>>
 >>project-root/
 >>├─ src/ # Source code (C++ headers and implementation files)\
 >>├─ assets/ # Game assets (images, sounds)\
@@ -24,7 +24,7 @@
 >>├─ docs/ # Project report (PDF)\
 >>├─ media/ # Presentation videos\
 >>└─ dist/ # Executable and runtime DLLs (not included in Git)
->>'''
+>>
 >>
 >> ---
 >>
