@@ -17,7 +17,7 @@
 >>
 >> ## Project Structure
 >>
->>project-root/
+>>project-root\
 >>├─ src/ # Source code (C++ headers and implementation files)\
 >>├─ assets/ # Game assets (images, sounds)\
 >>├─ vendor/SDL/ # SDL libraries used for compilation\
